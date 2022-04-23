@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  wapstest:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2022-04-23T21:32:05.77161929+01:00"
+    description: paroles
+    digest: c306e8d343db3be0edd3fb5a6c2bc1198b33acbbd35cf59327d8bc4579541499
+    name: wapstest
+    type: application
+    urls:
+    - https://thedon1500.github.io/wapstest/wapstest-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-23T21:32:05.770938384+01:00"
